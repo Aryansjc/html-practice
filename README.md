@@ -3,8 +3,8 @@
 A beginner-friendly project exploring HTML elements, CSS styling, and interactive web components.
 
 ## Contents
-
-- **lol.html** - Testing HTML tags including forms, tables, media, semantic tags
+- **index.html** - 1st proper website made in this project
+- **practice.html** - Testing HTML tags including forms, tables, media, semantic tags
 
 ## Topics Covered
 
